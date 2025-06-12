@@ -1,0 +1,10 @@
+# Ignore Python cache and database dumps
+__pycache__/
+*.pyc
+*.sqlite
+*.db
+
+# Ignore editor files
+*.swp
+*~
+.DS_Store
